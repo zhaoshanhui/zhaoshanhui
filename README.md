@@ -31,6 +31,7 @@ My research interests lie in `Agent OS` · `Agent Infra` · `GUI Agents` .
 **Shanhui Zhao**, Jiacheng Liu, Guohong Liu, *et al.*, Yuanchun Li<br>
 *Technical Report, 2026*<br>
 [![arXiv](https://img.shields.io/badge/arXiv-2606.23449-b31b1b.svg)](https://arxiv.org/abs/2606.23449)
+[![Venue](https://img.shields.io/badge/Technical%20Report-2026-6b7280.svg)](https://arxiv.org/abs/2606.23449)
 [![Code](https://img.shields.io/badge/Code-GitHub-181717.svg?logo=github)](https://github.com/aohp-os/aohp)
 [![Stars](https://img.shields.io/github/stars/aohp-os/aohp?style=social)](https://github.com/aohp-os/aohp)
 
