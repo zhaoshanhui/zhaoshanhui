@@ -5,8 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=ZiYG8B0AAAAJ&hl=en" style="text-decoration: none;"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a><!--
-  --><a href="mailto:zhaoshanhui0125@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <span style="display: inline-flex; gap: 8px; align-items: center;">
+    <a href="https://scholar.google.com/citations?user=ZiYG8B0AAAAJ&hl=en" style="text-decoration: none;"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+    <a href="mailto:zhaoshanhui0125@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white" alt="Mail"/></a>
+  </span>
 </p>
 
 ---
