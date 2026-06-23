@@ -62,7 +62,7 @@ Hao Wen, Yuanchun Li, Guohong Liu, **Shanhui Zhao**, *et al.*, Yunxin Liu<br>
 
 ### 🛠️ Open Source
 
-**[MobileClaw](https://github.com/mobileclaw/mobileclaw) - Fully Autonomous Mobile Agent.**<br>
+**MobileClaw - Fully Autonomous Mobile Agent.**<br>
 *Architecture Contributor*<br>
 [![Code](https://img.shields.io/badge/Code-GitHub-181717.svg?logo=github)](https://github.com/mobileclaw/mobileclaw)
 [![Stars](https://img.shields.io/github/stars/mobileclaw/mobileclaw?style=social)](https://github.com/mobileclaw/mobileclaw)
